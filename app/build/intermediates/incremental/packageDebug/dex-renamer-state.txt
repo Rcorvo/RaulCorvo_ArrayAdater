@@ -1,0 +1,7 @@
+#Sun Oct 30 18:34:13 CET 2016
+base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ArrayAdapterpersonalizado\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_563129e33766c2a161fd8aa38377cea44b1821be
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ArrayAdapterpersonalizado\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bf83aac906c3c76a22ff62abe0fdfec5e10bb0a\\classes.dex
+base.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ArrayAdapterpersonalizado\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bf83aac906c3c76a22ff62abe0fdfec5e10bb0a
+file.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ArrayAdapterpersonalizado\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_563129e33766c2a161fd8aa38377cea44b1821be\\classes.dex
